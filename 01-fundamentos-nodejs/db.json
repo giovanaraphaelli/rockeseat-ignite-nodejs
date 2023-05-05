@@ -1,14 +1,1 @@
-{
-  "users": [
-    {
-      "id": "81f4eada-388f-4f8d-bf49-0470295450d0",
-      "name": "Gigi",
-      "email": "gigi@outlook.com"
-    },
-    {
-      "id": "4c24ae76-0267-4554-8a8b-7c3c1c4c7b86",
-      "name": "Giovana",
-      "email": "giovana@outlook.com"
-    }
-  ]
-}
+{"users":[{"id":"81f4eada-388f-4f8d-bf49-0470295450d0","name":"Gigi","email":"gigi@outlook.com"},{"id":"4c24ae76-0267-4554-8a8b-7c3c1c4c7b86","name":"Giovana","email":"giovana@outlook.com"}]}
